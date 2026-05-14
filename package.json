@@ -1,0 +1,12 @@
+{
+  "name": "yt-dlp-resolver",
+  "version": "1.0.0",
+  "description": "Microservicio para resolver URLs de Instagram/TikTok con yt-dlp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
